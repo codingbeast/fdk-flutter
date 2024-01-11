@@ -12,4 +12,6 @@ setup(
             'fdk = fdk.fdk:main',
         ],
     },
+    long_description=open('README.md').read(),
+    long_description_content_type='text/markdown',
 )
