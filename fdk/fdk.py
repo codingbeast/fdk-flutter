@@ -1,6 +1,6 @@
 import argparse
 from mycolorlogger.mylogger import log
-from utility import is_valid_project_name
+from core.utility import is_valid_project_name
 import sys
 
 def main():
